@@ -1,8 +1,8 @@
 
 
 object ScalaDemo2 extends App {
-  
-  val g = new ScalaExample ("hiiiiiii")
+
+  val g = new ScalaExample ("hiiiiiii hello asasa")
   g.greet()
-  
+
 }
