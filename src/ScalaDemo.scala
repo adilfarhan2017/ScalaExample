@@ -14,8 +14,10 @@ object ScalaDemo extends App {
   println(j)
 
   var greetStrings = new Array[String](3)
-  greetStrings(0) = "Hi"
-  greetStrings(1) = "How are you and where are you 1211?"
+
+  greetStrings(0) = "Hi qwqwqwqwq"
+  greetStrings(1) = "How are you and where are you ?"
+
   greetStrings(2)= "adil Farhan\n"
 
   greetStrings.foreach(println)
