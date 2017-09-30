@@ -15,7 +15,7 @@ object ScalaDemo extends App {
 
   var greetStrings = new Array[String](3)
   greetStrings(0) = "Hi"
-  greetStrings(1) = "How are you ?"
+  greetStrings(1) = "How are you and where are you ?"
   greetStrings(2)= "adil Farhan\n"
 
   greetStrings.foreach(println)
