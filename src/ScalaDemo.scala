@@ -3,7 +3,7 @@ import scala.collection.mutable.HashMap
 object ScalaDemo extends App {
 
   val msg = "First program is it asaasa?";
-  println("hello world1212112121212121212124444:"+msg)
+  println("hello world1212112121212121212125555:"+msg)
 
   def max(x:Int,y:Int) = if (x>y) x else y;
   def max2(x:Int,y:Int) :Int = {x+y}
