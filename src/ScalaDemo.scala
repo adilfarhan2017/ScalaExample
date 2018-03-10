@@ -24,8 +24,8 @@ object ScalaDemo extends App {
 
   greetStrings.foreach((s:String)=>print(s+"Adil"))
 
-  val oneTwo = List(1,2)
-  val threeFour = List(3,4,5,6)
+  val oneTwo = List(1,2,3)
+  val threeFour = List(3,4,5,6,8,9,10)
 
   val all = oneTwo ::: threeFour
 
